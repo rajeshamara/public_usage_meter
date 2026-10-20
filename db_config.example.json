@@ -1,0 +1,9 @@
+{
+  "host": "127.0.0.1",
+  "port": 5432,
+  "database": "usage_meter",
+  "user": "usage_meter",
+  "expected_server_address": "127.0.0.1",
+  "expected_server_port": 5432,
+  "sslmode": "prefer"
+}

@@ -1,0 +1,26 @@
+# Local configuration and credentials
+db_config.json
+env.json
+auth.json
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Collected telemetry, caches, backups, and logs
+data/
+*.jsonl
+*.sqlite*
+*.db
+*.log
+
+# Python and editor files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+.vscode/
+.idea/
