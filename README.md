@@ -1,6 +1,6 @@
 # Usage Meter
 
-> **Public demo scope:** This repository is a curated public demo of the privately maintained Usage Meter project. It includes selected source code and documentation to showcase the architecture and engineering approach. Private configuration, usage and session records, operational details, and internal development materials are intentionally excluded. This repository is intended for portfolio review and demonstration, and is not a complete distribution of the private project.
+> **Public demo scope:** This repository contains selected source code and documentation from the privately maintained Usage Meter project. It demonstrates the allowance widget, telemetry importer, and storage architecture. Private configuration, usage and session records, operational details, and internal development materials are excluded. This is a partial distribution of the project.
 
 A Python utility for understanding Codex allowance and session usage. It combines
 a compact Windows desktop widget with a PostgreSQL-backed importer for local
